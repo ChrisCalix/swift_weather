@@ -1,0 +1,7 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'advancedMankindStoryBoard' do
+	use_frameworks!
+pod 'MaterialComponents/TextFields'
+pod 'FloatingPanel'
+end
